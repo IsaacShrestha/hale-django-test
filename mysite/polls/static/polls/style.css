@@ -1,0 +1,19 @@
+/*stylesheet*/
+
+body{
+	background: white url("images/background.jpg") no-repeat center;
+}
+
+li{
+	margin:20px;
+}
+
+li a{
+	color:#000;
+	background-color:#fff;
+}
+
+li a:hover{
+	color:#969696;
+}
+
